@@ -1,11 +1,11 @@
 Shop jacket - Website concept<br/><br/>
-Live Link : https://dribble-fashion-week.vercel.app/ <br/><br/>
+Live Link : https://shop-jacket-azure.vercel.app/ <br/><br/>
 Dribble Link: https://dribbble.com/shots/15544815-shop-jacket-page
 ---
 
 
 ## Overview
-This project is a replication of a design I found on [Dribbble]((https://dribbble.com/shots/16636382-Fashion-Look-Website-concept)) using HTML and CSS with a focus on CSS Grid Layout. The purpose of this project is to practice and showcase my front-end development skills, particularly in creating responsive and visually appealing layouts.
+This project is a replication of a design I found on [Dribbble]((https://dribbble.com/shots/15544815-shop-jacket-page)) using HTML and CSS with a focus on CSS Flexbox Layout. The purpose of this project is to practice and showcase my front-end development skills, particularly in creating responsive and visually appealing layouts.
 
 
 
