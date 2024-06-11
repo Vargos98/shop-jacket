@@ -138,7 +138,7 @@ html,body{
     display: none;
   }
   #right span{
-    /* display: none; */
+    display: none;
     position: absolute;
     margin-top: 120px;
     margin-left: 120px;
