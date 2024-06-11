@@ -54,7 +54,8 @@ This project can be used as a reference for:
 *Description: Screenshot of the desktop view*
 
 ![Mobile View] <br/><br/>
-(![Screenshot (13)](https://github.com/Vargos98/profile-page/assets/127929058/4e5614e6-46f9-4d2d-94f5-482159d54d0e)
+(![Screenshot (13)](![Screenshot (17)](https://github.com/Vargos98/shop-jacket/assets/127929058/3c7d27ff-f4f5-4f13-b76e-1c81bd122680)
+)
 <br/><br/>
 *Description: Screenshot of the mobile view*
 
