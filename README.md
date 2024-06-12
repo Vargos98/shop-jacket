@@ -10,14 +10,14 @@ This project is a replication of a design I found on [Dribbble]((https://dribbbl
 
 
 ## Project Description
-The project involves replicating a design from Dribbble, emphasizing the following:
+The project involves replicating a design from Pintrest, emphasizing the following:
 - Accurate reproduction of the visual design
-- Responsive layout using CSS Grid
+- Responsive layout using CSS Flexbox
 - Clean and organized code
 
 ## Features
 - Responsive design that works on different screen sizes
-- Usage of CSS Grid for layout management
+- Usage of CSS Flexbox for layout management
 - Semantic HTML5 elements for better accessibility and SEO
 
 ## Technologies Used
@@ -29,11 +29,11 @@ The project involves replicating a design from Dribbble, emphasizing the followi
 To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Vargos98/profile-page.git
+    https://github.com/Vargos98/shop-jacket.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd dribbble-design-replication
+    cd shop-jacket
     ```
 3. Open `index.html` in your preferred web browser:
     ```bash
@@ -71,9 +71,8 @@ Contributions are welcome! If you have any ideas or suggestions to improve this 
 
 
 ## Acknowledgments
-- The original design was created by [Tomasz Mazurczak](https://dribbble.com/thomsoon_com) on Dribbble.
-- Thanks to [Dribbble](https://dribbble.com/) for providing a platform with amazing design inspiration.
-- [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) by CSS-Tricks for helping with grid layout concepts.
+- Thanks to [Dribbble](https://in.pintrest.com/) for providing a platform with amazing design inspiration.
+- [CSS Grid Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) by CSS-Tricks for helping with flexbox layout concepts.
 
 ---
 
