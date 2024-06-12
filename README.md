@@ -71,7 +71,7 @@ Contributions are welcome! If you have any ideas or suggestions to improve this 
 
 
 ## Acknowledgments
-- Thanks to [Dribbble](https://in.pintrest.com/) for providing a platform with amazing design inspiration.
+- Thanks to [Dribbble](https://dribble.com/) for providing a platform with amazing design inspiration.
 - [CSS Grid Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) by CSS-Tricks for helping with flexbox layout concepts.
 
 ---
