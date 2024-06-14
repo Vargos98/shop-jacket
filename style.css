@@ -133,28 +133,16 @@ html,body{
  
   }
   #center-in p{
-    font-size: 4.2vw;
-    font-weight: 500;
-    line-height: 4vw;
+
     display: none;
   }
   #right span{
     display: none;
-    position: absolute;
-    margin-top: 120px;
-    margin-left: 120px;
-    color: white;
-    font-size: 2.4vw;
-    font-weight: 500;
-    line-height: 2.5vw;
+  
   }
   #bottom{
     display: none;
-    height: 45%;
-    width: 100%;
-    background: url(https://images.unsplash.com/photo-1583513702324-73e5c09c9dcf?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    background-size: cover;
-    background-position: 0% 40%;
+    
     
   }
   
